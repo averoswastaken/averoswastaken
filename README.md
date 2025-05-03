@@ -12,8 +12,8 @@ Merhaba, ben **Averos**! etkileşimli, duyarlı ve ölçeklenebilir uygulamalar 
 
 ## 🧰 Teknoloji Yığını
 
-[![Yeteneklerim](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,discordjs,nodejs,express,mongodb)](https://averos.org)  
-[![Araçlarım](https://skillicons.dev/icons?i=vscode,github,vercel,figma)](https://averos.org)
+[![Yeteneklerim](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,discordjs,nodejs)](https://averos.org)  
+[![Araçlarım](https://skillicons.dev/icons?i=vscode,github,vercel)](https://averos.org)
 
 ---
 
